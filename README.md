@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Web-Scrapper using node.js](https://abhishekshukla.hashnode.dev/build-web-scrapper-using-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
