@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/avi0_07" target="blank"><img src="https://img.shields.io/twitter/follow/avi0_07?logo=twitter&style=for-the-badge" alt="avi0_07" /></a> </p>
 
+[![LeetCode user shuklaabhishekkumar007](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshuklaabhishekkumar007&logo=leetcode&logoColor=yellow)](https://leetcode.com/shuklaabhishekkumar007/)
+
 - 📝 I regularly write articles on [https://abhishekshukla.hashnode.dev/](https://abhishekshukla.hashnode.dev/)
 
 - 💬 Ask me about **Android, Java , Opensource**
