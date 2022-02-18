@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡Recent Activity
+### Recent Activity
 <!--START_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
