@@ -20,6 +20,12 @@
 - [Build Web-Scrapper using node.js](https://abhishekshukla.hashnode.dev/build-web-scrapper-using-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avi0_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avi0_07" height="30" width="40" /></a>
