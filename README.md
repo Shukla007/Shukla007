@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://abhishekshukla.hashnode.dev/](https://abhishekshukla.hashnode.dev/)
 
-- 💬 Ask me about **Web dev,Javascript, Java , Opensource**
+- 💬 Ask me about **Android, Javascript, Java , Opensource**
 
 - 📫 How to reach me **shuklaabhishekkumar007@gmail.com**
 
