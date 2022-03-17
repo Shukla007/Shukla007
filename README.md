@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Blockchain?](https://abhishekshukla.hashnode.dev/what-is-blockchain)
 - [Build Web-Scrapper using node.js](https://abhishekshukla.hashnode.dev/build-web-scrapper-using-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
