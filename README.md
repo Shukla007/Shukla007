@@ -1,6 +1,8 @@
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Android devloper"/>
+
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
-<a href="https://www.linkpicture.com/view.php?img=LPic6279f84711315937227382"><img src="https://www.linkpicture.com/q/Modern-Futuristic-Twitter-Header.png" type="image"></a>
 <h3 align="center">A passionate Developer and open-source contributer from India.</h3>
+<img align="right" alt="coding" height="250px" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukla007&label=Profile%20views&color=0e75b6&style=flat" alt="shukla007" /> </p>
 
@@ -11,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://abhishekshukla.hashnode.dev/](https://abhishekshukla.hashnode.dev/)
 
-- 💬 Ask me about **Blockchain, Javascript, Solidity , Opensource**
+- 💬 Ask me about **Android, Java, DSA , Opensource**
 
 - 📫 How to reach me **shuklaabhishekkumar007@gmail.com**
 
