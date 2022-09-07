@@ -12,8 +12,8 @@ A passionate Developer and open-source contributer from India.
 <a href="https://www.twitter.com/avi0_07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/avi0_07?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
+
 ### Skills
------------
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
