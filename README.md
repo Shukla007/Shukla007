@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shukla</h1>
-<h3 align="center">A passionate Fullstack Android developer from India</h3>
+<h3 align="center">A passionate Fullstack Android developer.</h3>
 
 <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" />
 
