@@ -1,17 +1,13 @@
-name: Latest blog post workflow
+name: Update Blog Posts
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
+    - cron: '0 0 * * *'
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "4"
-          feed_list: "https://medium.com/@Abhishekshukla1,https://abhishekshukla.hashnode.dev/rss.xml"
+          feed_list: "https://abhishekshukla.hashnode.dev/rss.xml"
+          max_post_count: 3
