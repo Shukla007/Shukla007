@@ -16,12 +16,7 @@ Passionate about building robust mobile experiences and intelligent systems. Cur
 
 ---
 
-## 📝 𝗟𝗮𝘁𝗲𝘀𝘁 𝗕𝗹𝗼𝗴 𝗣𝗼𝘀𝘁𝘀
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Flutter Performance](https://abhishekshukla.hashnode.dev/) - Tips and tricks
-- [Building ML Models for Mobile](https://abhishekshukla.hashnode.dev/) - A practical guide
-- [Rust for Android Developers](https://abhishekshukla.hashnode.dev/) - Getting started
-<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
@@ -32,16 +27,8 @@ Passionate about building robust mobile experiences and intelligent systems. Cur
 
 ---
 
-## 🌟 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Shukla-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishekshukla007)
-[![GitHub](https://img.shields.io/badge/GitHub-Shukla007-181717?style=for-the-badge&logo=github)](https://github.com/Shukla007)
-[![Twitter](https://img.shields.io/badge/Twitter-@avi0_07-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/avi0_07)
-[![Instagram](https://img.shields.io/badge/Instagram-@abhishekshukla.dev-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/abhishekshukla.dev)
-[![Email](https://img.shields.io/badge/Email-shuklaabhishekkumar007@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:shuklaabhishekkumar007@gmail.com)
+  
+[![Email](https://img.shields.io/badge/📧_Email-shuklaabhishekkumar007@gmail.com-D14836?style=flat-square)](mailto:shuklaabhishekkumar007@gmail.com)
 
 </div>
-
----
