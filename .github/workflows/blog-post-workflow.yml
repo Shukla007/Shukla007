@@ -1,13 +1,17 @@
-name: Update Blog Posts
+name: Latest Medium Blog Posts
+
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://abhishekshukla.hashnode.dev/rss.xml"
-          max_post_count: 3
+          feed_list: "https://medium.com/feed/@Abhishekshukla1"
