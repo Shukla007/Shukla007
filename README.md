@@ -28,3 +28,8 @@ Passionate about building high-quality mobile applications and scalable backend 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avi0_07)
 
 </div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
