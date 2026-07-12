@@ -32,4 +32,9 @@ Passionate about building high-quality mobile applications and scalable backend 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Web-Scrapper using node.js](https://blog.devgenius.io/build-web-scrapper-using-node-js-40438757661d?source=rss-8ff32ce5c164------2)
+- [Why always Java be the first choice for Android Developers?](https://blog.devgenius.io/why-always-java-be-the-first-choice-for-android-developers-9e6c15154c34?source=rss-8ff32ce5c164------2)
+- [What are the eight data types of JavaScript?](https://blog.devgenius.io/what-are-the-eight-data-types-of-javascript-3819b38c8e53?source=rss-8ff32ce5c164------2)
+- [What is JavaScript Function?](https://medium.com/@Abhishekshukla1/what-is-javascript-function-cf1b70a9bf3f?source=rss-8ff32ce5c164------2)
+- [Web development in 2020 — A complete Roadmap.](https://medium.com/@Abhishekshukla1/web-development-in-2020-a-complete-roadmap-af89adf03605?source=rss-8ff32ce5c164------2)
 <!-- BLOG-POST-LIST:END -->
