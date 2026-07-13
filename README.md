@@ -38,3 +38,12 @@ Passionate about building high-quality mobile applications and scalable backend 
 - [What is JavaScript Function?](https://medium.com/@Abhishekshukla1/what-is-javascript-function-cf1b70a9bf3f?source=rss-8ff32ce5c164------2)
 - [Web development in 2020 — A complete Roadmap.](https://medium.com/@Abhishekshukla1/web-development-in-2020-a-complete-roadmap-af89adf03605?source=rss-8ff32ce5c164------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/mijjva7fzdxpv1tk145eaqg8?theme=dark&v=758a7131acb3">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/mijjva7fzdxpv1tk145eaqg8?theme=light&v=758a7131acb3">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/mijjva7fzdxpv1tk145eaqg8?theme=dark&v=758a7131acb3">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
