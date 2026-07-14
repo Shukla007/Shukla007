@@ -39,3 +39,12 @@ Passionate about building high-quality mobile applications and scalable backend 
 - [Web development in 2020 — A complete Roadmap.](https://medium.com/@Abhishekshukla1/web-development-in-2020-a-complete-roadmap-af89adf03605?source=rss-8ff32ce5c164------2)
 <!-- BLOG-POST-LIST:END -->
 
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/mijjva7fzdxpv1tk145eaqg8?theme=dark&v=9d686f4e7862">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/mijjva7fzdxpv1tk145eaqg8?theme=light&v=9d686f4e7862">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/mijjva7fzdxpv1tk145eaqg8?theme=dark&v=9d686f4e7862">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
